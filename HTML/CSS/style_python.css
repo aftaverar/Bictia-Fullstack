@@ -1,0 +1,68 @@
+.titulo {
+    font-family: 'Alata', sans-serif;
+    font-size: 30px;
+}
+
+.cuerpo {
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+header {
+    color: #fff;
+    background-color: #2b5b84;
+    display: block;
+}
+
+footer {
+    color: #fff;
+    background-color: #134571;
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
+}
+
+#general {
+    background-color: #91cafc47;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 50px;
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
